@@ -138,6 +138,7 @@ h1,h2,h3,h4,h5,h6{
     color: var(--title-text-color);
     background-color: var(--background-color-button);
     font-family: Roboto, sans-serif;
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.62;
     letter-spacing: 0.03em;
